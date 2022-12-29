@@ -1,2 +1,6 @@
 this file is another test file.
+<<<<<<< HEAD
 these are next changes to see how branching works
+=======
+this line is for front-end branch actually
+>>>>>>> back-end
